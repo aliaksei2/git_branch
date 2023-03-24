@@ -1,0 +1,8 @@
+Author
+Bug summary
+Severity
+Step to reproduce
+Actual result
+Expected result
+Attachment
+
